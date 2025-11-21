@@ -1,25 +1,174 @@
-# 💫 About Me:
-Working on: Full-stack apps with MERN magic! 💻✨<br>Collaborating on: Web projects that push boundaries! 🚀<br>Need help with: Cracking advanced DSA! 🧠<br>Learning: Backend wizardry with MongoDB & Express.js! 📚<br>Ask me about: Building cool apps like weather & quotes! 🌦️💬<br>Fun fact: Cricket & chess fan – strategy is my game! 🏏♟️
+# Vivek Masuna
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Vivek Masuna</b></h1>
+<h2 align="center"><b>Computer Engineering Student | Full Stack Developer | AI Enthusiast</b></h2>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivek_masuna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekmasuna999) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Vivek-Masuna) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VivekMasuna&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VivekMasuna&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekMasuna&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VivekMasuna&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VivekMasuna&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+    <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vivek Masuna"/>
+    </a>
+    <a href="https://github.com/vivekmasuna" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="vivekmasuna" />
+    </a>
+    <a href="https://leetcode.com/u/vivekmasuna/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+    <a href="mailto:vivekmasuna999@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Vivek Masuna" />
+    </a>
+    <a href="https://your-portfolio.com" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+    </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VivekMasuna&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👨‍💻 About Me
+
+- 🎓 **Computer Engineering Student** at K. J. Somaiya Institute of Technology with **CGPA 9.7**
+- 💻 Passionate about **Full Stack Development, AI, and Automation**
+- 🚀 Solved **900+ DSA problems** on LeetCode with strong problem-solving skills
+- 🔭 Exploring **Generative AI, RPA, and Cloud Technologies**
+- 🌱 Currently learning **Advanced System Design and AI/ML**
+- 📚 Interested in **Web Development, Data Analytics, and Automation**
+- ⚡ Fun fact: I enjoy **cricket, chess, and running** - balancing tech with sports!
+
+---
+
+## 🛠️ Technical Skills
+
+### **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### **Web Development**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### **Tools & Technologies**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
+
+### **AI & Data Analytics**
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/RPA_Blue_Prism-000000?style=for-the-badge" alt="RPA"/>
+  <img src="https://img.shields.io/badge/SAP-000000?style=for-the-badge" alt="SAP"/>
+</p>
+
+---
+
+## 💼 Work Experience
+
+### **Accenture** - ASE Summer Intern
+**May 2025 - July 2025 | Mumbai**
+
+- Completed comprehensive training in **Generative AI, Cybersecurity, Prompt Engineering, RPA (Blue Prism), ERP & SAP ABAP**
+- Automated business processes and built scalable solutions using **Blue Prism, SAP, Power BI, and Excel**
+- Enhanced operational efficiency by **30-45%** through automation and process optimization
+- Collaborated with managers and tech leads on a 6-week hands-on project
+
+### **TechPlement** - Full Stack Web Developer Intern
+**May 2024 - June 2024 | Remote**
+
+- Enhanced website functionality by **30%** using **JavaScript, Node.js, and MongoDB**
+- Strengthened expertise in **Git version control and Agile methodologies**
+- Contributed to collaborative development in a remote team environment
+
+---
+
+## 🚀 Projects
+
+### **Social Media Analytics Virtual Lab**
+- Developed full-stack virtual lab for social media analytics experiments
+- Implemented **Data Extraction, Sentiment Analysis, Topic Modeling, and Graph Algorithms**
+- Used **Python** libraries including **BeautifulSoup, Requests, NetworkX, and NLP techniques**
+- Built interactive frontend with **React** and backend with **Node.js + Express**
+
+### **Personalize or Perish - Academic Support System**
+- Engineered AI-powered learning analytics processing **500+ assessments** with **90% accuracy**
+- Integrated **Groq LLM + ChromaDB** for personalized study material generation
+- Reduced educator analysis time by **40%** and generated materials **5x faster**
+- **Won 3rd place** in 30-hour hackathon among 20 teams
+
+### **Wanderlust - Airbnb-Like Website**
+- Built property-listing web app with user authentication and reviews
+- Used **Node.js, Express.js, MongoDB, Passport.js, and Bootstrap**
+- Implemented secure authentication and responsive design
+
+---
+
+## 🏆 Achievements
+
+- **CGPA 9.7** in Computer Engineering at KJSIT
+- Solved **900+ DSA problems** on LeetCode
+- **3rd Place** in 30-hour hackathon for AI academic support system
+- Improved **IETE KJSIT website efficiency by 60%** as Technical Team Member
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+    <a href="https://github.com/vivekmasuna">
+        <img src="https://github-readme-stats.vercel.app/api?username=vivekmasuna&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+    <a href="https://github.com/vivekmasuna">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekmasuna&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/vivekmasuna">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekmasuna&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45"/>
+    </a>
+    <a href="https://github.com/vivekmasuna" target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/github.png" width="45"/>
+    </a>
+    <a href="https://leetcode.com/u/vivekmasuna/" target="_blank">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="45"/>
+    </a>
+    <a href="mailto:vivekmasuna999@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/gmail.png" width="45"/>
+    </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivekmasuna&color=blue" alt="Profile views"/>
+  <a href="https://github.com/vivekmasuna?tab=followers">
+    <img src="https://img.shields.io/github/followers/vivekmasuna?label=Followers&style=social" alt="GitHub followers"/>
+  </a>
+</p>
+
+⭐️ From [Vivek Masuna](https://github.com/vivekmasuna)
+
+---
