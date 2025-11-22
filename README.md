@@ -5,7 +5,7 @@
 <h2 align="center"><b>Full Stack Developer | AI Enthusiast | Problem Solver</b></h2>
 
 <p align="center">
-Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex-ASE Intern @ <b>Accenture</b> | <b>Full Stack Web Developer</b> | <b>AI Enthusiast</b> | Solved <b>900+ DSA Problems</b> on LeetCode | <b>CGPA 9.7</b> | Passionate about <b>AI/ML & Data Science</b> | Building <b>Full Stack Applications</b> | <b>DSA Lover</b>
+Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex-ASE Intern @ <b>Accenture</b> | Knight @ <b>LeetCode</b> | <b>Full Stack Web Developer</b> | <b>AI Enthusiast</b> | Solved <b>900+ DSA Problems</b> on LeetCode | <b>CGPA 9.7</b> | Passionate about <b>AI/ML & Data Science</b>
 </p>
 
 <p align="center">
