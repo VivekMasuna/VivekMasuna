@@ -1,11 +1,11 @@
-<img src="updatedBanner.png">
+<img src="Banner.png">
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Vivek Masuna <br/> (Computer Engineering Student & Full Stack Developer & AI Enthusiast)</b></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Vivek Masuna <br/> (Computer Engineering Student & Tech Explorer)</b></h1>
 
-<h2 align="center"><b>Full Stack Developer | AI Enthusiast | Problem Solving Enthusiast</b></h2>
+<h2 align="center"><b>Full Stack Developer | AI Enthusiast | Problem Solver</b></h2>
 
 <p align="center">
-Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | <b>Full Stack Developer</b> | <b>AI Enthusiast</b> | Solved <b>900+ DSA Problems</b> on LeetCode | <b>CGPA 9.7</b> | Exploring <b>Generative AI, RPA, and Cloud Technologies</b> | Building <b>Full Stack Applications</b> | <b>DSA Lover</b>
+Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex-ASE Intern @ <b>Accenture</b> | <b>Full Stack Web Developer</b> | <b>AI Enthusiast</b> | Solved <b>900+ DSA Problems</b> on LeetCode | <b>CGPA 9.7</b> | Passionate about <b>AI/ML & Data Science</b> | Building <b>Full Stack Applications</b> | <b>DSA Lover</b>
 </p>
 
 <p align="center">
