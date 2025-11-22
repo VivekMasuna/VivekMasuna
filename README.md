@@ -230,9 +230,6 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
     <a href="https://github.com/VivekMasuna">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekMasuna&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
     </a>
-</p>
-
-<p align="center">
     <a href="https://github.com/VivekMasuna">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekMasuna&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
@@ -242,7 +239,7 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 
 ---
 
-## 📈 Graph
+## 📈 Contribution Grid Snake
 
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
@@ -265,13 +262,13 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 ## 📧 Connect with me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <a href="https://www.linkedin.com/in/vivekmasuna999" target="_blank">
         <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45"/>
     </a>
-    <a href="https://github.com/vivekmasuna" target="_blank">
+    <a href="https://github.com/VivekMasuna" target="_blank">
         <img src="https://img.icons8.com/fluent/48/000000/github.png" width="45"/>
     </a>
-    <a href="https://leetcode.com/u/vivekmasuna/" target="_blank">
+    <a href="https://leetcode.com/u/Vivek_Masuna/" target="_blank">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="45"/>
     </a>
     <a href="mailto:vivekmasuna999@gmail.com" target="_blank">
@@ -284,12 +281,13 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=vivekmasuna&color=blue" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=VivekMasuna&color=blue" alt="Profile views"/>
 </a>
 
 <a href="https://github.com/vivekmasuna?tab=followers">
-    <img src="https://img.shields.io/github/followers/vivekmasuna?label=Followers&style=social" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/VivekMasuna?label=Followers&style=social" alt="GitHub followers"/>
 </a>
+
 
 ⭐️ From [Vivek Masuna](https://github.com/vivekmasuna)
 
