@@ -30,7 +30,7 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 
 ## About Me
 
-<a><img align="right" src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="360" height="360" /></a>
+<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/500.gif" width="360" height="360" /></a>
 
 - 🔥 **Full Stack + AI Development** - Passionate about building scalable applications with modern tech stacks
 - 🧠 **Problem-Solving Enthusiast** - Solved **900+ DSA problems** on LeetCode with strong analytical skills
