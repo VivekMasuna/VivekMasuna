@@ -182,7 +182,7 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 
 ---
 
-## All DSA Badges @LeetCode
+## All Badges @LeetCode
 
 <img src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="40px"></img>
 
