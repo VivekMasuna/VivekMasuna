@@ -1,4 +1,4 @@
-<img src="Banner.png">
+<img src="./images/" alt="Banner">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Vivek Masuna <br/> (Computer Engineering Student & Tech Explorer)</b></h1>
 
