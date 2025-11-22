@@ -53,16 +53,16 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/langchain-3549ff" width="55" height="55" /><br>LangChain</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/openai-412991" width="55" height="55" /><br>OpenAI API</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/rag-lightblue" width="55" height="55" /><br>RAG</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=django" width="55" height="55" /><br>Django</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flask" width="55" height="55" /><br>Flask</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=eclipse" width="55" height="55" /><br>Eclipse</td>
   </tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br>React</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" /><br>Next.js</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>Node.js</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/fastapi-0e9e67" width="55" height="55" /><br>FastAPI</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" /><br>FastAPI</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
@@ -71,9 +71,9 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/postgresql-4169e1" width="55" height="55" /><br>PostgreSQL</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/chromadb-009688" width="55" height="55" /><br>ChromaDB</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/vector%20search-008080" width="55" height="55" /><br>Vector Search</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" /><br>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" /><br>Flutter</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=idea" width="55" height="55" /><br>IntelliJ IDEA</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="55" height="55" /><br>Redis</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" /><br>Firebase</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
@@ -85,21 +85,43 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=azure" width="55" height="55" /><br>Azure</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/bash-000000" width="55" height="55" /><br>Bash</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bash" width="55" height="55" /><br>Bash</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/postman-orange" width="55" height="55" /><br>Postman</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/powerbi-F2C811" width="55" height="55" /><br>Power BI</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br>Postman</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=powershell" width="55" height="55" /><br>Power BI</td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/rpa-blue" width="55" height="55" /><br>RPA</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/sap-0080ff" width="55" height="55" /><br>SAP</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/prompt%20engineering-7f00ff" width="55" height="55" /><br>Prompt Eng.</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/aiops-2d3748" width="55" height="55" /><br>AIOps</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/system%20design-666666" width="55" height="55" /><br>System Design</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" /><br>Supabase</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vite" width="55" height="55" /><br>Vite</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=threejs" width="55" height="55" /><br>Three.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" /><br>Pytorch</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" /><br>Tensorflow</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/selenium-darkblue" width="55" height="55" /><br>Selenium</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/scrapy-green" width="55" height="55" /><br>Scrapy</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=selenium" width="55" height="55" /><br>Selenium</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55" /><br>Scikit-learn</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jquery" width="55" height="55" /><br>jQuery</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kafka" width="55" height="55" /><br>Kafka</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" /><br>Laravel</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=materialui" width="55" height="55" /><br>Material UI</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=matlab" width="55" height="55" /><br>MATLAB</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=netlify" width="55" height="55" /><br>Netlify</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nginx" width="55" height="55" /><br>Nginx</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=npm" width="55" height="55" /><br>NPM</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pycharm" width="55" height="55" /><br>PyCharm</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=r" width="55" height="55" /><br>R</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=regex" width="55" height="55" /><br>Regex</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=sass" width="55" height="55" /><br>SASS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=stackoverflow" width="55" height="55" /><br>Stack Overflow</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" /><br>.NET</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dynamodb" width="55" height="55" /><br>DynamoDB</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=gitlab" width="55" height="55" /><br>GitLab</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=heroku" width="55" height="55" /><br>Heroku</td>
   </tr>
 </table>
 
@@ -126,7 +148,7 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 
 ---
 
-## 📝 PROJECT's ZONE
+## 📝 Academic Projects
 
 ### **Social Media Analytics Virtual Lab**
 - 🌐 Developed full-stack virtual lab for social media analytics experiments
@@ -141,7 +163,6 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 - 🔗 Integrated **Groq LLM + ChromaDB** for personalized study material generation
 - ⚡ Reduced educator analysis time by **40%** and generated materials **5x faster**
 - 🏆 **Won 3rd place** in 30-hour hackathon among 20 teams
-- 🔗 [**GitHub Repository**](https://github.com/vivekmasuna/personalize-or-perish) | [**Live Demo**](https://your-demo-link.com)
 
 ---
 
@@ -149,18 +170,6 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 - 🏠 Built property-listing web app with user authentication and reviews
 - 🔧 Used **Node.js, Express.js, MongoDB, Passport.js, and Bootstrap**
 - 🔐 Implemented secure authentication and responsive design
-- 🔗 [**GitHub Repository**](https://github.com/vivekmasuna/wanderlust) | [**Live Demo**](https://your-demo-link.com)
-
----
-
-### **More Projects**
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🌐 Social Media Analytics Virtual Lab | Full-stack virtual lab for social media analytics experiments | React, Node.js, Python, MongoDB | [**🔗 GitHub**](https://github.com/vivekmasuna) |
-| 🤖 AI Academic Support System | AI-powered learning analytics with 90% accuracy | Groq LLM, ChromaDB, React, Node.js | [**🔗 GitHub**](https://github.com/vivekmasuna) |
-| 🏠 Wanderlust | Airbnb-like property listing website | Node.js, Express.js, MongoDB, Bootstrap | [**🔗 GitHub**](https://github.com/vivekmasuna) |
-| 📊 IETE KJSIT Website | Improved website efficiency by 60% | React, Node.js, MongoDB | [**🔗 GitHub**](https://github.com/vivekmasuna) |
 
 ---
 
@@ -173,44 +182,15 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 
 ---
 
-## ⭐ Key Highlights 🎉
-
-| 🎯 Achievements | 🥇 Skills & Recognition |
-|----------------|------------------------|
-| 💥 Solved **900+ DSA Problems** on LeetCode | ⭐ **CGPA 9.7** at KJSIT |
-| 💥 **3rd Place** in 30-hour hackathon | ⭐ Full Stack Developer & AI Enthusiast |
-| 💥 Enhanced website efficiency by **60%** | ⭐ Experienced in **MERN Stack, AI/ML, RPA** |
-| 💥 Built **AI-powered applications** with 90% accuracy | ⭐ Exploring **Generative AI & Cloud Technologies** |
-
----
-
-## ❤️ I'm Code on (DSA)
-
-<p align="left"> 
-  <img src="https://assets.leetcode.com/static_assets/others/leetcode_logo.png" height="40px" width="40px">
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210915230143/geeksforgeekslogo.png" height="40px" width="40px">
-  <img src="https://assets.leetcode.com/static_assets/others/codeforces.png" height="40px" width="40px">
-  <img src="https://assets.leetcode.com/static_assets/others/codechef.png" height="40px" width="40px">
-  <img src="https://assets.leetcode.com/static_assets/others/hackerrank.png" height="40px" width="40px">
-  <img src="https://assets.leetcode.com/static_assets/others/hackerearth.png" height="40px" width="40px"> 
-</p> 
-
----
-
 ## All DSA Badges @LeetCode
 
 <img src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/1k.gif" width="40px"></img>
+<!-- <img src="https://assets.leetcode.com/static_assets/marketing/1k.gif" width="40px"></img> -->
 <img src="https://assets.leetcode.com/static_assets/marketing/500.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/365.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-annual.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-12.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="40px"></img>
@@ -220,43 +200,7 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-12.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-11.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-10.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-09.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-08.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-07.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-06.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-05.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-04.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-03.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-02.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-01.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-12.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-11.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-10.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-09.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-08.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-07.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-06.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-05.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-04.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-03.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-02.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/LC-75.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/DS_II.png" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%9F%BA%E7%A1%80.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E5%85%A5%E9%97%A8.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/algorithm_II.png" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/DP_I.png" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/DS_I.png" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" width="40px"></img>
+<!-- <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="40px"></img> -->
 
 ---
 
