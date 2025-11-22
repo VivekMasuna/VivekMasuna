@@ -9,19 +9,19 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <a href="https://www.linkedin.com/in/vivekmasuna999" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vivek Masuna"/>
     </a>
-    <a href="https://github.com/vivekmasuna" target="_blank">
+    <a href="https://github.com/VivekMasuna" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="vivekmasuna" />
     </a>
-    <a href="https://leetcode.com/u/vivekmasuna/" target="_blank">
+    <a href="https://leetcode.com/u/Vivek_Masuna/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
     <a href="mailto:vivekmasuna999@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Vivek Masuna" />
     </a>
-    <a href="https://your-portfolio.com" target="_blank">
+    <a href="https://vivek-m-portfolio.netlify.app" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
     </a>
 </p>
@@ -30,7 +30,7 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 
 ## About Me
 
-<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="360" height="360" /></a>
+<a><img align="right" src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="360" height="360" /></a>
 
 - 🔥 **Full Stack + AI Development** - Passionate about building scalable applications with modern tech stacks
 - 🧠 **Problem-Solving Enthusiast** - Solved **900+ DSA problems** on LeetCode with strong analytical skills
