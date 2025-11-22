@@ -185,12 +185,30 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 ## All DSA Badges @LeetCode
 
 <img src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="40px"></img>
-<!-- <img src="https://assets.leetcode.com/static_assets/marketing/1k.gif" width="40px"></img> -->
+
+
 <img src="https://assets.leetcode.com/static_assets/marketing/500.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/365.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
+
+
+<img src="./images/2025-200.gif" width="40px"></img>
+<img src="./images/2025-100.gif" width="40px"></img>
+<img src="./images/2025-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+
+
+<img src="./images/202510.gif" width="40px"></img>
+<img src="./images/202509.gif" width="40px"></img>
+<img src="./images/202508.gif" width="40px"></img>
+<img src="./images/202507.gif" width="40px"></img>
+<img src="./images/202506.gif" width="40px"></img>
+<img src="./images/202505.gif" width="40px"></img>
+<img src="./images/202504.gif" width="40px"></img>
+<img src="./images/202503.gif" width="40px"></img>
+<img src="./images/202502.gif" width="40px"></img>
+<img src="./images/202501.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-12.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="40px"></img>
@@ -200,24 +218,23 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="40px"></img>
-<!-- <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="40px"></img> -->
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/vivekmasuna">
-        <img src="https://github-readme-stats.vercel.app/api?username=vivekmasuna&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <a href="https://github.com/VivekMasuna">
+        <img src="https://github-readme-stats.vercel.app/api?username=VivekMasuna&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
-    <a href="https://github.com/vivekmasuna">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekmasuna&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+    <a href="https://github.com/VivekMasuna">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekMasuna&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
     </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/vivekmasuna">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekmasuna&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <a href="https://github.com/VivekMasuna">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekMasuna&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
 </p>
 
@@ -235,13 +252,13 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 
 ## ⌛ GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=vivekmasuna&theme=radical&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
+![](https://github-profile-trophy.vercel.app/?username=VivekMasuna&theme=radical&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
 
 ---
 
 ## 📊 GitHub Activity Graph
 
-[![Vivek Masuna GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekmasuna&theme=github-compact)](https://github.com/vivekmasuna/github-readme-activity-graph)
+[![Vivek Masuna GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VivekMasuna&theme=github-compact)](https://github.com/VivekMasuna/github-readme-activity-graph)
 
 ---
 
