@@ -266,15 +266,47 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
     <a href="https://www.linkedin.com/in/vivekmasuna999" target="_blank">
         <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45"/>
     </a>
+    &nbsp;
     <a href="https://github.com/VivekMasuna" target="_blank">
-        <img src="https://img.icons8.com/fluent/48/000000/github.png" width="45"/>
+        <img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="45"/>
     </a>
+    &nbsp;
     <a href="https://leetcode.com/u/Vivek_Masuna/" target="_blank">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="45"/>
     </a>
+    &nbsp;
     <a href="mailto:vivekmasuna999@gmail.com" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/gmail.png" width="45"/>
+        <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="45"/>
     </a>
+    &nbsp;
+    <a href="https://www.instagram.com/vivek_masuna/" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="45"/>
+    </a>
+    &nbsp;
+    <a href="https://wa.me/9172816249" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="45"/>
+    </a>
+    &nbsp;
+    <a href="https://www.facebook.com/people/Vivek-Masuna/pfbid033L76YA5XTWrUTNtmhojHQY8EPtxwZD1jRL7TgxZpt3xkqmtBeH8deQPy11g3MhMFl/" target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="45"/>
+    </a>
+    &nbsp;
+    <a href="https://t.me/Vivek_Masuna" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png&color=000000" width="45"/>
+    </a>
+    &nbsp;
+    <a href="https://x.com/VivekMasuna" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=ebe1e1" width="45"/>
+    </a>
+    &nbsp;
+    <a href="https://discord.com/users/vivek_masuna" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="45"/>
+    </a>
+    &nbsp;
+    <a href="https://www.threads.net/@vivek_masuna" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=AS2a6aA9BwK3&format=png&color=ebe1e1" width="45"/>
+    </a>
+    &nbsp;
 </p>
 
 ---
@@ -284,7 +316,7 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=VivekMasuna&color=blue" alt="Profile views"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/vivekmasuna?tab=followers">
     <img src="https://img.shields.io/github/followers/VivekMasuna?label=Followers&style=social" alt="GitHub followers"/>
 </a>
