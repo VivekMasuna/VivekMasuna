@@ -201,6 +201,7 @@ Computer Engineering Student @ <b>K. J. Somaiya Institute of Technology</b> | Ex
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
 
 
+<img src="./images/2025-11.gif" width="40px"></img>
 <img src="./images/202510.gif" width="40px"></img>
 <img src="./images/202509.gif" width="40px"></img>
 <img src="./images/202508.gif" width="40px"></img>
